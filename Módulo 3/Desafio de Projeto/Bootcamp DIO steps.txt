@@ -1,0 +1,7 @@
+Importado a base
+Adicionado um numero de gerente ao colaborador que estava nulo
+Trocado o tipo da coluna salario de float para float fixo
+Criado a coluna personalizada Fullname
+= Table.AddColumn(#"Valor Substituído", "Personalizar", each [Fname]&" "&[Minit]&". "&[Lname])
+Criado a coluna personalizada name_location_dpt
+= Table.AddColumn(#"azure_company.departament Expandido", "name_location_dpt", each [azure_company.departament.Dname]&" ("&[Dlocation]&")")
