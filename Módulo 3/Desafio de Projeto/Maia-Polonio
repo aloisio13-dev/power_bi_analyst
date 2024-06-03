@@ -1,0 +1,7 @@
+Desafio de Projeto - Processando e Transformando Dados com Power BI
+
+Neste Desafio podemos utilizar somente o Mesclar 
+
+No Power BI, mesclar e acrescentar são duas operações diferentes que você pode realizar no Editor de Consultas para combinar dados de duas ou mais tabelas. 
+Neste desafio de projeto foi realizada a operação de mesclar pois haviam duas tabelas (employee e departament) e ambas contêm a coluna Dnumber podendo mesclar todas as informações das tabelas e criar  tabela employee conforme desafio. 
+
