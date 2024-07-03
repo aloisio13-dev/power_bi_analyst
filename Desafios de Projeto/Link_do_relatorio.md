@@ -1,0 +1,2 @@
+# Link do Relatio
+  - https://app.powerbi.com/groups/me/reports/d76ff42b-d0b2-4e11-9a05-a935af6b8a02/ReportSectionb1b39f30add9200534cd?bookmarkGuid=04fea65d-8267-4729-a2b4-238f038dcd51&bookmarkUsage=1&ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&portalSessionId=cf8d776e-0ede-4bc6-b6b3-9aafa08a479f&fromEntryPoint=export                                        
