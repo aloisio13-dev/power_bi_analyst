@@ -1,3 +1,5 @@
+show databases;
+
 create schema if not exists azure_company;
 use azure_company;
 
@@ -21,6 +23,8 @@ CREATE TABLE employee(
     constraint chk_salary_employee check (Salary> 2000.0),
     constraint pk_employee primary key (Ssn)
 );
+
+-- drop constraint fk_employee;
 
 alter table employee 
 	add constraint fk_employee 
