@@ -24,7 +24,7 @@
 
 ## Image
 
-![This is an alt text.](/Modulo4/Desafios_de_Projeto/schema_start_Power_BI.jpg "This is a sample image.")
+![This is an alt text.](/Modulo_4/Desafios_de_Projeto/schema_start_Power_BI.jpg "This is a sample image.")
 
 ## Etapas com DAX
 1. Construção da tabela Calendário
