@@ -24,16 +24,17 @@
 
 ## Image
 
-![This is an alt text.](/Modulo_4/Desafios_de_Projeto/schema_start_Power_BI.jpg "This is a sample image.")
+![This is an alt text.](/schema_star.jpg "This is a sample image.")
 
 ## Etapas com DAX
 1. Construção da tabela Calendário
-  Nova Tabela 
-2.D_Calendario = CALENDARAUTO(12)
+ Nova Tabela 
+2. D_Calendario = CALENDARAUTO(12)
 
 3. Novas colunas 
-    D_Calendario = CALENDARAUTO(12)
-    Day_Week = WEEKDAY('D_Calendario'[Date])
-    Day_week_name = FORMAT('D_Calendario'[Date],"DDDD")
-    Month = MONTH('D_Calendario'[Date])
-    Month_name = FORMAT('D_Calendario'[Date],"MMMM")
+4. D_Calendario = CALENDARAUTO(12)
+5. Day_Week = WEEKDAY('D_Calendario'[Date])
+6. Day_week_name = FORMAT('D_Calendario'[Date],"DDDD")
+7. Month = MONTH('D_Calendario'[Date])
+8. Month_name = FORMAT('D_Calendario'[Date],"MMMM")
+
