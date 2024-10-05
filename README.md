@@ -1,4 +1,4 @@
-# power_bi_analyst
+# Power_Bi_Analyst
 
 
 ## Desafio Schema Start Modelagem com DAX
