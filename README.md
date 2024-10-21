@@ -10,3 +10,5 @@ select Fname, Minit, Lname, Ssn, Address, Sex, Super_ssn, Dno from employee wher
 
 Com as tabelas criadas, mesclar as duas tabelas Gerente com Colaboradores, criando tabela unica Gerente_Colaboradores 
 com o nome de gerente de seus colaboradores. 
+
+# Criação da DER Universidade Modelagem de Dados - Estrela
