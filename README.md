@@ -31,5 +31,6 @@ Tabela Fato:
 -F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount  Band, Segment, Country, Salers, Profit, Date (campos))
 
 Foi criadas campos agregadores conforme a figura abaixo:
-![alt text](image-1.png)
+![Diagrama Modelagem Dados Estrela](https://github.com/user-attachments/assets/50c0b8fb-09f6-4d3f-bbf7-315fce251885)
+
 
